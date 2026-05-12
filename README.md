@@ -54,7 +54,7 @@ This project builds a complete modern data pipeline - from raw CSV ingestion all
 ```
 IPL_Analytics/
 ├── data/
-│   ├── raw/                    # Raw CSV from Kaggle (not tracked in git)
+│   ├── raw/
 │   ├── match_summary.csv       # Exported model outputs
 │   ├── batting_stats.csv
 │   ├── bowling_stats.csv
