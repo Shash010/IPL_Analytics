@@ -1,0 +1,8 @@
+venv/
+*.duckdb
+*.duckdb.wal
+data/raw/
+__pycache__/
+.tmp_dagster_home*/
+*.pyc
+.dlt/
