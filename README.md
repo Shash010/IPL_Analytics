@@ -1,16 +1,11 @@
 # 🏏 IPL Cricket Analytics (2008–2025)
 
 An end-to-end Data Engineering and Data Analytics portfolio project built on 278,205 ball-by-ball records spanning 17 seasons of IPL cricket.
-
-![Dashboard Preview](assets/dashboard_preview.png)
-
-🔗 **[View Live Dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_URL)**
-
 ---
 
 ## 📌 Project Overview
 
-This project builds a complete modern data pipeline — from raw CSV ingestion all the way to interactive Tableau dashboards — using a modern, production-inspired free toolstack. The goal was to answer real cricket questions with data while demonstrating end-to-end data engineering skills.
+This project builds a complete modern data pipeline - from raw CSV ingestion all the way to interactive Tableau dashboards - using a modern, production-inspired free toolstack. The goal was to answer real cricket questions with data while demonstrating end-to-end data engineering skills.
 
 **Questions answered:**
 - Which IPL teams have the highest all-time win percentage?
@@ -32,9 +27,6 @@ This project builds a complete modern data pipeline — from raw CSV ingestion a
 | Modelling | [SQLMesh](https://sqlmesh.com/) | SQL transformation models with lineage and testing |
 | Orchestration | [Dagster](https://dagster.io/) | Asset-based pipeline orchestration with local UI |
 | Visualisation | [Tableau Public](https://public.tableau.com/) | Interactive dashboards published online |
-
-> All tools are 100% free and open source. No cloud accounts or credit cards required.
-
 ---
 
 ## 📊 Dashboards
@@ -160,11 +152,11 @@ Connect each CSV in `data/` as a data source in Tableau Public Desktop.
 ## 🔍 Key Insights
 
 - **Gujarat Titans** have the highest win percentage (66.82%) despite being one of the newest franchises
-- **Teams that field first** win more often (438 wins) vs batting first (377 wins) — a clear strategic insight
+- **Teams that field first** win more often (438 wins) vs batting first (377 wins) - a clear strategic insight
 - **AB de Villiers** leads all-time Player of the Match awards with 27
 - **Virat Kohli** is the all-time leading run scorer with 8,652 runs
 - **YS Chahal** leads wicket takers with 217 wickets
-- **Death over scoring** has risen significantly from 2020 onwards — T20 cricket is getting more aggressive
+- **Death over scoring** has risen significantly from 2020 onwards - T20 cricket is getting more aggressive
 
 ---
 
@@ -193,10 +185,3 @@ pip install dlt polars duckdb sqlmesh dagster dagster-webserver
 - **Seasons:** 2007/08 through 2025
 
 ---
-
-## 👤 Author
-
-**Shashank Mekkiramane Lingaraju**
-- Tableau Public: [YOUR_TABLEAU_PUBLIC_PROFILE]
-- LinkedIn: [YOUR_LINKEDIN_URL]
-- GitHub: [github.com/Shash010](https://github.com/Shash010)
