@@ -37,11 +37,15 @@ This project builds a complete modern data pipeline - from raw CSV ingestion all
 - Player of the Match award leaders
 - Toss decision impact (bat vs field)
 
+<img width="1656" height="878" alt="image" src="https://github.com/user-attachments/assets/e32c3cad-76f8-4dcf-ac0f-7dc67ad1e570" />
+
 ### Dashboard 2 — Performance Analysis
 - Top 10 all-time run scorers
 - Top 10 all-time wicket takers
 - Venue chase success rates
 - Powerplay vs Death overs scoring trends (2008–2025)
+
+<img width="1656" height="881" alt="image" src="https://github.com/user-attachments/assets/f768c2d2-dca9-40f5-bfbf-c64ebc7cf27d" />
 
 ---
 
